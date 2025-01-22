@@ -1,3 +1,6 @@
 # podstawy-informatyki
 abcde
-cdcdcdv
+sebus
+a
+b
+c
