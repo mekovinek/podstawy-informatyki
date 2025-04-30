@@ -1,0 +1,6 @@
+# grupy statusów HTTP
+- **1XX** (Informacyjne) - Statusy z tej grupy wskazują, że żądanie zostało odebrane przez serwer, ale przetwarzanie go jeszcze się nie zakończyło. Są to odpowiedzi informacyjne, które zazwyczaj nie są wyświetlane użytkownikowi końcowemu.
+- **2XX** (Sukces) - Statusy 2XX oznaczają, że zapytanie zostało pomyślnie przetworzone przez serwer i odpowiedź jest w pełni zrealizowana. Oznacza to, że wszystko poszło zgodnie z planem.
+- **3XX** (Przekierowania) - Statusy 3XX informują, że zapytanie wymaga dalszego działania, zwykle w formie przekierowania do innego zasobu. Oznacza to, że klient powinien wykonać dodatkowy krok, aby otrzymać odpowiedź.
+- **4XX** (Błędy klienta) - Statusy 4XX oznaczają, że coś poszło nie tak po stronie klienta. Oznacza to, że zapytanie było niepoprawne lub niekompletne. Użytkownik lub aplikacja po stronie klienta muszą poprawić zapytanie.
+- **5XX** (Błędy serwera) - Statusy 5XX oznaczają, że serwer napotkał problem podczas przetwarzania zapytania. Oznacza to, że problem leży po stronie serwera, a nie klienta.
